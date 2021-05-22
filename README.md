@@ -11,7 +11,7 @@
 [![Generic badge](https://img.shields.io/badge/LinkedIn-Active-blue.svg)](https://www.linkedin.com/in/seçkin-kükrer-493a91169/)
 [![Generic badge](https://img.shields.io/badge/Exercism-Active-blue.svg)](https://exercism.io/profiles/LeaveNhA)
 
-An author who is currently working on a book called Clojurescript: Lisp'in Yükselişi! Hard-working MIS graduate, CS student, with a passion for Programming Language Theory and Math. Clojurescript Compiler contributor. The Clojurescript Exercism Track Maintainer.
+An author who is currently working on a book called Clojurescript: Lisp'in Yükselişi! Hard-working MIS graduate, candidate MS in Computer Science, with a passion for Programming Language Theory and Math. Clojurescript Compiler contributor. The Clojurescript Exercism Track Maintainer.
 
 
 ---
