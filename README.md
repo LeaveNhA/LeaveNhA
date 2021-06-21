@@ -1,4 +1,4 @@
-*I believe that everyone deserves a better life, and the knowledge is THE key to that. I’m passionate about helping that disseminate knowledge to everyone.*
+*I believe that everyone deserves a better life, and knowledge is THE key to that. I’m passionate about helping that disseminate knowledge to everyone.*
 
 ---
 
