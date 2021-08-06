@@ -7,7 +7,7 @@
 
 ![](https://komarev.com/ghpvc/?username=LeaveNhA)
 
-[![Generic badge](https://img.shields.io/badge/Twitter-Active-blue.svg)](https://twitter.com/LeaveNhA)
+[![Generic badge](https://img.shields.io/badge/Twitter-Active-blue.svg)](https://twitter.com/kedisakatlayici)
 [![Generic badge](https://img.shields.io/badge/LinkedIn-Active-blue.svg)](https://www.linkedin.com/in/seçkin-kükrer-493a91169/)
 [![Generic badge](https://img.shields.io/badge/Exercism-Active-blue.svg)](https://exercism.io/profiles/LeaveNhA)
 
