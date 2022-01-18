@@ -12,7 +12,7 @@
 [![Generic badge](https://img.shields.io/badge/Exercism-Active-blue.svg)](https://exercism.io/profiles/LeaveNhA)
 [![Generic badge](https://img.shields.io/badge/Twitch-Active-blue.svg)](https://www.twitch.tv/leavenha/)
 
-An author who is currently working on a book called Clojurescript: Lisp'in Yükselişi! Hard-working MIS graduate, CS student, MSc candidate in Data Science, with a passion for Programming Language Theory and Math. Clojurescript Compiler contributor. The Clojurescript Exercism Track Maintainer.
+An author who is currently working on a book called Clojurescript: Lisp'in Yükselişi! Hard-working MIS graduate, theoretical CS student, MSc candidate in Data Science, with a passion for Programming Language Theory and Math. Clojurescript Compiler contributor. The Clojurescript Exercism Track Maintainer.
 
 
 ---
