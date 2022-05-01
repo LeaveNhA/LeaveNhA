@@ -17,6 +17,8 @@ An author who is currently working on a book called Clojurescript: Lisp'in Yüks
 
 ---
 
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?leavenha" frameborder="0"></iframe>
+
 <div style="text-align:center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leavenha&langs_count=10&card_width=1400"><img src="https://github-readme-stats.vercel.app/api?username=leavenha&show_icons=true&count_private=true&custom_title=LeaveNhA&card_width=3000"></div>
 
 <div id="github-card" 
