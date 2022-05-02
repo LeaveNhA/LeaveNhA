@@ -20,7 +20,7 @@ An author who is currently working on a book called Clojurescript: Lisp'in Yüks
 <div id="github-card" 
 	data-sort-by="stars"
 	data-header-text="Most starred repositories"
-	data-max-repos="20"
+	data-max-repos="100"
 	data-username="LeaveNhA">
 </div>
 
