@@ -28,7 +28,9 @@ An author who is currently working on a book called Clojurescript: Lisp'in Yüks
 
 ```js
 // Here is the recent calculation of mine about the languages I use.
+// [Language Name, Percentage]
 [
+  [ '*TOTAL*', 0.9999999999999999 ],
   [ 'Clojure', '0.6631' ],
   [ 'JavaScript', '0.1578' ],
   [ 'Swift', '0.0373' ],
