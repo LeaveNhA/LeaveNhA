@@ -17,14 +17,10 @@ An author who is currently working on a book called Clojurescript: Lisp'in Yüks
 
 ---
 
-<div id="github-card" 
-	data-sort-by="stars"
-	data-header-text="Most starred repositories"
-	data-max-repos="100"
-	data-username="LeaveNhA">
+<div style="text-align:center">
+	<img src="https://github-readme-stats.vercel.app/api?username=leavenha&show_icons=true&count_private=true&custom_title=LeaveNhA&card_width=3000">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leavenha&langs_count=10&card_width=1400">
 </div>
-
-<div style="text-align:center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leavenha&langs_count=10&card_width=1400"><img src="https://github-readme-stats.vercel.app/api?username=leavenha&show_icons=true&count_private=true&custom_title=LeaveNhA&card_width=3000"></div>
 
 ```js
 // Here is the recent calculation of mine about the languages I use.
