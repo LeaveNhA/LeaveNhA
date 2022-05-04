@@ -7,10 +7,7 @@
 
 ![](https://komarev.com/ghpvc/?username=LeaveNhA)
 
-[![Generic badge](https://img.shields.io/badge/Twitter-Active-blue.svg)](https://twitter.com/LeaveNhA)
-[![Generic badge](https://img.shields.io/badge/LinkedIn-Active-blue.svg)](https://www.linkedin.com/in/seçkin-kükrer-493a91169/)
-[![Generic badge](https://img.shields.io/badge/Exercism-Active-blue.svg)](https://exercism.io/profiles/LeaveNhA)
-[![Generic badge](https://img.shields.io/badge/Twitch-Active-blue.svg)](https://www.twitch.tv/leavenha/)
+[![Generic badge](https://img.shields.io/badge/Twitter-Active-blue.svg)](https://twitter.com/LeaveNhA) [![Generic badge](https://img.shields.io/badge/LinkedIn-Active-blue.svg)](https://www.linkedin.com/in/seçkin-kükrer-493a91169/) [![Generic badge](https://img.shields.io/badge/Exercism-Active-blue.svg)](https://exercism.io/profiles/LeaveNhA) [![Generic badge](https://img.shields.io/badge/Twitch-Active-blue.svg)](https://www.twitch.tv/leavenha/)
 
 An author who is currently working on a book called Clojurescript: Lisp'in Yükselişi! Hard-working MIS graduate, theoretical CS student, MSc candidate in Data Science, with a passion for Programming Language Theory and Math. Clojurescript Compiler contributor. The Clojurescript Exercism Track Maintainer.
 
