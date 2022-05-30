@@ -16,7 +16,7 @@ An author who is currently working on a book called Clojurescript: Lisp'in Yüks
 
 <div style="text-align:center">
 	<img src="https://github-readme-stats.vercel.app/api?username=leavenha&show_icons=true&count_private=true&custom_title=LeaveNhA&card_width=3000">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leavenha&langs_count=10&card_width=1400">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leavenha&langs_count=10&card_width=1400&hide=jupyternotebook">
 </div>
 
 ```js
