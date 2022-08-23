@@ -16,7 +16,7 @@ An author who is currently working on a book called Clojurescript: Lisp'in Yüks
 
 <div style="text-align:center">
 	<img src="https://github-readme-stats.vercel.app/api?username=leavenha&show_icons=true&count_private=true&custom_title=LeaveNhA&card_width=3000">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leavenha&langs_count=10&card_width=1400&hide=jupyter notebook">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leavenha&langs_count=10&card_width=1400&hide=jupyter%20notebook">
 </div>
 
 ```js
@@ -51,18 +51,3 @@ An author who is currently working on a book called Clojurescript: Lisp'in Yüks
   [ 'Batchfile', '0.0004' ]
 ]
 ```
-
-<!--
-**LeaveNhA/LeaveNhA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
