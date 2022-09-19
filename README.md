@@ -2,12 +2,11 @@
 
 ---
 
+<div style="height:150px; overflow:hidden; border-radius: 12px;">
+<img style="object-fit: cover; object-position: center; height: 100%; width: 100%;" src="./sources/images/topbg.png" />
+</div>
 
-### Hello World! 👋
-
-![](https://komarev.com/ghpvc/?username=LeaveNhA)
-
-[![Generic badge](https://img.shields.io/badge/Twitter-Active-blue.svg)](https://twitter.com/LeaveNhA) [![Generic badge](https://img.shields.io/badge/LinkedIn-Active-blue.svg)](https://www.linkedin.com/in/seçkin-kükrer-493a91169/) [![Generic badge](https://img.shields.io/badge/Exercism-Active-blue.svg)](https://exercism.io/profiles/LeaveNhA) [![Generic badge](https://img.shields.io/badge/Twitch-Active-blue.svg)](https://www.twitch.tv/leavenha/)
+![](https://komarev.com/ghpvc/?username=LeaveNhA) [![Generic badge](https://img.shields.io/badge/Twitter-Active-blue.svg)](https://twitter.com/LeaveNhA) [![Generic badge](https://img.shields.io/badge/LinkedIn-Active-blue.svg)](https://www.linkedin.com/in/seçkin-kükrer-493a91169/) [![Generic badge](https://img.shields.io/badge/Exercism-Active-blue.svg)](https://exercism.io/profiles/LeaveNhA) [![Generic badge](https://img.shields.io/badge/Twitch-Active-blue.svg)](https://www.twitch.tv/leavenha/)
 
 An author who is currently working on a book called Clojurescript: Lisp'in Yükselişi! Hard-working MIS graduate, theoretical CS student, MSc in Data Science, with a passion for Programming Language Theory and Math. Clojurescript Compiler contributor. The Clojurescript Exercism Track Maintainer. Doge (Dg) language and ecosystem contributor.
 
