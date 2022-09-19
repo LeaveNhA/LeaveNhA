@@ -2,9 +2,7 @@
 
 ---
 
-<div style="height:150px; overflow:hidden; border-radius: 12px;">
-<img style="object-fit: cover; object-position: center; height: 100%; width: 100%;" src="./sources/images/topbg.png" />
-</div>
+<img style="object-fit: cover; object-position: center; height: 100%; width: 100%; border-radius: 12px;" src="./sources/images/topbg.png" />
 
 ![](https://komarev.com/ghpvc/?username=LeaveNhA) [![Generic badge](https://img.shields.io/badge/Twitter-Active-blue.svg)](https://twitter.com/LeaveNhA) [![Generic badge](https://img.shields.io/badge/LinkedIn-Active-blue.svg)](https://www.linkedin.com/in/seçkin-kükrer-493a91169/) [![Generic badge](https://img.shields.io/badge/Exercism-Active-blue.svg)](https://exercism.io/profiles/LeaveNhA) [![Generic badge](https://img.shields.io/badge/Twitch-Active-blue.svg)](https://www.twitch.tv/leavenha/)
 
