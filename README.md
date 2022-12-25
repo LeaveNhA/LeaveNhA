@@ -6,8 +6,8 @@
 
 ![](https://komarev.com/ghpvc/?username=LeaveNhA) [![Generic badge](https://img.shields.io/badge/Twitter-Active-blue.svg)](https://twitter.com/LeaveNhA) [![Generic badge](https://img.shields.io/badge/LinkedIn-Active-blue.svg)](https://www.linkedin.com/in/seçkin-kükrer-493a91169/) [![Generic badge](https://img.shields.io/badge/Exercism-Active-blue.svg)](https://exercism.io/profiles/LeaveNhA) [![Generic badge](https://img.shields.io/badge/Twitch-Active-blue.svg)](https://www.twitch.tv/leavenha/)
 
-An author who is currently working on a book called Clojurescript: Lisp'in Yükselişi! Hard-working MIS graduate, theoretical CS student, MSc in Data Science, with a passion for Programming Language Theory and Math. Clojurescript Compiler contributor. The Clojurescript Exercism Track Maintainer. Doge (Dg) language and ecosystem contributor.
-
+Hard-working MIS graduate, theoretical Computer Science student, M.Sc. in Data Science, with a passion for Programming Language Theory and Math. Clojurescript compiler, Doge (Dg) language and ecosystem contributor. Xiana core developer team member. The Clojurescript Exercism Track Maintainer. Getting ready for my Master and Ph.D. in PLT. Gonna be a Programming Language Theorist and inherit the studies and works of J. McCarthy! 🙏🏻
+Studying, teaching and consulting about Programming Languages, Frameworks and libraries' design choices. Solved --almost-- every type of problems in many domains in the ways that you can't imagine and euphoric about to see the new ones.
 
 ---
 
