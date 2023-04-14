@@ -1,4 +1,4 @@
-*I believe that everyone deserves a better life, and knowledge is THE key to that. I’m passionate about helping that disseminate knowledge to everyone.*
+*As a student of Programming Language Theory, I am dedicated to studying, creating, and refining elegant and expressive languages and systems that empower machines to reason, learn, and create in ways that enhance our human experience. By harnessing the beauty of mathematics, these tools can help us solve complex problems and inspire breakthroughs in fields such as AI, healthcare, and sustainability.*
 
 ---
 
